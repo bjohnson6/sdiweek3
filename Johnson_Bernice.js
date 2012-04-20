@@ -17,7 +17,7 @@ alert("Project 3");
        "shopping",
        "boys"
        ]
- goestoSchool: function(gardenspot middle school){},
+ goestoSchool: function(gardenspot middle school){,
      };
      firstDaughter.goestoSchool("gardenspot middle school");
  
