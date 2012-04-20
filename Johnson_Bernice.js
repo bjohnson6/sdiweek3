@@ -7,7 +7,7 @@ alert("Project 3");
 
 //Variable
 //object
-  var firstDaughter ={
+  var firstDaughter = {
       name: "Kylee",
        age: "14",
      grade: "8",
@@ -16,11 +16,13 @@ alert("Project 3");
        "makeup",
        "shopping",
        "boys"
-       ]
- goestoSchool: function(gardenspot middle school){,
+]
+
+console.log(firstDaughter);
+  goestoSchool: function(gardenspot middle school){,
      };
      firstDaughter.goestoSchool("gardenspot middle school");
- getstoSchool: function(rides the bus) {,
+  getstoSchool: function(rides the bus) {,
  };
  
  //Var key
@@ -40,6 +42,7 @@ alert("Project 3");
           "scoobydoo",
           "going to the park"
           ]
+console.log(secondDaughter);     
     goestoSchool: function(blueball){,
     };
      secondDaughter.goestoSchool("blueball");
