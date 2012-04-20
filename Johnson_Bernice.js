@@ -19,10 +19,13 @@ alert("Project 3");
  ],
 
 console.log(firstDaughter); 
-  goestoSchool: function(gardenspot middle school){,
+  goestoSchool: function(){
+       console.log("garden spot middle school");
+       }
      };
      firstDaughter.goestoSchool("gardenspot middle school");
-  getstoSchool: function(rides the bus) {,
+  getstoSchool: function() {
+      console.log("rides the bus");
  };
  
  //Var key
@@ -43,9 +46,14 @@ console.log(firstDaughter);
           "going to the park"
           ],
 console.log(secondDaughter);     
-    goestoSchool: function(blueball){,
+    goestoSchool: function(){
+     console.log("blueball")
+     }
     };
-     secondDaughter.goestoSchool("blueball");
+     secondDaughter.goestoSchool();
   };   
-    getstoSchool: function(moms car){,
+    getstoSchool: function(){
+     console.log(" moms car");
+     }
+     
     };
