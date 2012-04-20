@@ -27,4 +27,21 @@ alert("Project 3");
    var key= "name";
    daughterName="Kylee";
     console.log(daughter[key]);
+    
+//Variable
+//object
+  var secondDaughter = {
+        name: "Emma",
+         age: "7",
+       grade: "1",
+        girl: true,
+   interests: [
+          "art",
+          "scoobydoo",
+          "going to the park"
+          ]
+    goestoSchool: function(blueball){,
+    };
+     secondDaughter.goestoSchool("blueball");
+  };   
    
