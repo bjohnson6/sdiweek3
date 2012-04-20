@@ -20,7 +20,7 @@ alert("Project 3");
  goestoSchool: function(gardenspot middle school){,
      };
      firstDaughter.goestoSchool("gardenspot middle school");
- 
+ getstoSchool: function(rides the bus) {,
  };
  
  //Var key
@@ -44,4 +44,5 @@ alert("Project 3");
     };
      secondDaughter.goestoSchool("blueball");
   };   
-   
+    getstoSchool: function(moms car){,
+    };
