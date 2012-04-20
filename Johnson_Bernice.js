@@ -18,5 +18,13 @@ alert("Project 3");
        "boys"
        ]
 };
- goestoSchool;function(destination){
+ goestoSchool;function("gardenspot middle school"){
+  return();
+ 
  };
+ 
+ //Var key
+   var key= "name";
+   daughterName="Kylee";
+    console.log(daughter[key]);
+   
