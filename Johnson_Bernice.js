@@ -16,9 +16,9 @@ alert("Project 3");
        "makeup",
        "shopping",
        "boys"
-]
+ ],
 
-console.log(firstDaughter);
+console.log(firstDaughter); 
   goestoSchool: function(gardenspot middle school){,
      };
      firstDaughter.goestoSchool("gardenspot middle school");
@@ -41,7 +41,7 @@ console.log(firstDaughter);
           "art",
           "scoobydoo",
           "going to the park"
-          ]
+          ],
 console.log(secondDaughter);     
     goestoSchool: function(blueball){,
     };
