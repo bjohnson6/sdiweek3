@@ -17,9 +17,9 @@ alert("Project 3");
        "shopping",
        "boys"
        ]
-};
- goestoSchool;function("gardenspot middle school"){
-  return();
+ goestoSchool: function(gardenspot middle school){},
+     };
+     firstDaughter.goestoSchool("gardenspot middle school");
  
  };
  
